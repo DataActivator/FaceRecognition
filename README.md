@@ -7,7 +7,9 @@ create folder structure like below:
 
 1. face_rec_example.py
 
-2. known_faces
+2. known_faces--
+     |
+     |
      -folder1
      -folder2
      --etc ..

@@ -5,15 +5,19 @@ https://github.com/ageitgey/face_recognition
 
 create folder structure like below:
 
-face_rec_example.py
-known_faces
+1. face_rec_example.py
+
+2. known_faces
      -folder1
-     -folder2    
-unknown_faces
+     -folder2
+     --etc ..
+     
+3. unknown_faces
      -img.jpg
      -img2.jpg
-     .....
-test_face_result
+     .....etc.. 
+     
+4. test_face_result
     --after running the python file recognised faces from unknown_faces directory will be saved here
     
 To run -
